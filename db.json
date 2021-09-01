@@ -1,0 +1,132 @@
+{
+  "books": [
+    {
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "title": "Entrep Book",
+      "author": "Author1",
+      "category": "Entrepreneurship",
+      "status": "finished",
+      "id": 1
+    },
+    {
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "title": "My Businesss School",
+      "author": "Author some",
+      "category": "Entrepreneurship",
+      "status": "finished",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Subodh",
+      "title": "Entrep 2Book",
+      "category": "Entrepreneurship",
+      "status": "init"
+    },
+    {
+      "id": 4,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author1",
+      "title": "Cretive Book",
+      "category": "Creativity",
+      "status": "init"
+    },
+    {
+      "id": 5,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author1",
+      "title": "Cret2 Book",
+      "category": "Creativity",
+      "status": "init"
+    },
+    {
+      "id": 6,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author1",
+      "title": "edu Book",
+      "category": "Education",
+      "status": "init"
+    },
+    {
+      "title": "school Book",
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author1",
+      "category": "Education",
+      "status": "finished",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "EcoAuth",
+      "title": "Eco",
+      "category": "Economics",
+      "status": "finished"
+    },
+    {
+      "id": 9,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "AuthHist",
+      "title": "History Book",
+      "category": "History",
+      "status": "init"
+    },
+    {
+      "id": 10,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author4",
+      "title": "Comm Skills",
+      "category": "Communication Skills",
+      "status": "reading"
+    },
+    {
+      "id": 11,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author5",
+      "title": "Philosophy",
+      "category": "Philosophy",
+      "status": "finished"
+    },
+    {
+      "id": 12,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author7",
+      "title": "Pers Development",
+      "category": "Personal Development",
+      "status": "finished"
+    },
+    {
+      "id": 13,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author7",
+      "title": "Pers Development",
+      "category": "Personal Development",
+      "status": "finished"
+    },
+    {
+      "id": 14,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author8",
+      "title": "Personal Development Book",
+      "category": "Personal Development",
+      "status": "finished"
+    },
+    {
+      "id": 15,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author9",
+      "title": "Book9",
+      "category": "Politics",
+      "status": "reading"
+    },
+    {
+      "id": 16,
+      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
+      "author": "Author10",
+      "title": "Book10",
+      "category": "Politics",
+      "status": "reading"
+    }
+  ]
+}
