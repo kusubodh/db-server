@@ -1,130 +1,130 @@
 {
   "books": [
     {
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "title": "Entrep Book",
-      "author": "Author1",
+      "image": "https://images.blinkist.io/images/books/6102b8956cee070007d9f43f/1_1/470.jpg",
+      "title": "Disrupt You!",
+      "author": "Jay Samit",
       "category": "Entrepreneurship",
       "status": "finished",
       "id": 1
     },
     {
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "title": "My Businesss School",
-      "author": "Author some",
+      "image": "https://images.blinkist.io/images/books/611fc7fe6cee070007cf6a57/1_1/470.jpg",
+      "title": "The Entrepreneur's Weekly Nietzsche",
+      "author": "Dave Jilk and Brad Feld",
       "category": "Entrepreneurship",
-      "status": "finished",
+      "status": "reading",
       "id": 2
     },
     {
       "id": 3,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Subodh",
-      "title": "Entrep 2Book",
+      "image": "https://images.blinkist.io/images/books/610d2ea66cee070007427619/1_1/470.jpg",
+      "author": "Val Wright",
+      "title": "Rapid Growth, Done Right",
       "category": "Entrepreneurship",
       "status": "init"
     },
     {
       "id": 4,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author1",
-      "title": "Cretive Book",
+      "image": "https://images.blinkist.io/images/books/60d9b8e56cee070007f5760a/1_1/470.jpg",
+      "author": "Austin Kleon",
+      "title": "Show Your Work!",
       "category": "Creativity",
       "status": "init"
     },
     {
       "id": 5,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author1",
-      "title": "Cret2 Book",
+      "image": "https://images.blinkist.io/images/books/601d462b6cee0700078f64dd/1_1/470.jpg",
+      "author": "Nir Bashan",
+      "title": "The Creator Mindset",
       "category": "Creativity",
       "status": "init"
     },
     {
       "id": 6,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author1",
-      "title": "edu Book",
+      "image": "https://images.blinkist.io/images/books/60fe5b446cee0700070a51c1/1_1/470.jpg",
+      "author": "Sönke Ahrens",
+      "title": "How to Take Smart Notes",
       "category": "Education",
       "status": "init"
     },
     {
-      "title": "school Book",
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author1",
+      "title": "Learn Like a Pro",
+      "image": "https://images.blinkist.io/images/books/60efe1c16cee0700074d5b53/1_1/470.jpg",
+      "author": "Barbara Oakley PhD and Olav Schewe",
       "category": "Education",
       "status": "finished",
       "id": 7
     },
     {
       "id": 8,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "EcoAuth",
-      "title": "Eco",
+      "image": "https://images.blinkist.io/images/books/610104156cee070008712fbf/1_1/470.jpg",
+      "author": "Bobby C. Lee",
+      "title": "The Promise of Bitcoin",
       "category": "Economics",
       "status": "finished"
     },
     {
       "id": 9,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "AuthHist",
-      "title": "History Book",
+      "image": "https://images.blinkist.io/images/books/610d461d6cee070007427694/1_1/470.jpg",
+      "author": "Bill O'Reilly and Martin Dugard",
+      "title": "Killing the Mob",
       "category": "History",
       "status": "init"
     },
     {
       "id": 10,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author4",
-      "title": "Comm Skills",
+      "image": "https://images.blinkist.io/images/books/609931d56cee0700077e67e1/1_1/470.jpg",
+      "author": "Dale Carnegie",
+      "title": "How to Win Friends & Influence People",
       "category": "Communication Skills",
       "status": "reading"
     },
     {
       "id": 11,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author5",
-      "title": "Philosophy",
+      "image": "https://images.blinkist.io/images/books/60f925176cee070008946156/1_1/470.jpg",
+      "author": "Acharya Shunya",
+      "title": "Sovereign Self",
       "category": "Philosophy",
       "status": "finished"
     },
     {
       "id": 12,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author7",
-      "title": "Pers Development",
+      "image": "https://images.blinkist.io/images/books/6116795e6cee070007535cc9/1_1/470.jpg",
+      "author": "Dr. Pippa Grange",
+      "title": "Fear Less",
       "category": "Personal Development",
       "status": "finished"
     },
     {
       "id": 13,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author7",
-      "title": "Pers Development",
+      "image": "https://images.blinkist.io/images/books/611fc7046cee070007cf6a44/1_1/470.jpg",
+      "author": "Scott O'Neil",
+      "title": "Be Where Your Feet Are",
       "category": "Personal Development",
       "status": "finished"
     },
     {
       "id": 14,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author8",
-      "title": "Personal Development Book",
+      "image": "https://images.blinkist.io/images/books/60a37e4b6cee07000794b563/1_1/470.jpg",
+      "author": "David Bradford and Carole Robin",
+      "title": "Connect",
       "category": "Personal Development",
       "status": "finished"
     },
     {
       "id": 15,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author9",
-      "title": "Book9",
+      "image": "https://images.blinkist.io/images/books/611fce456cee0700070603e8/1_1/470.jpg",
+      "author": "Carol Leonnig",
+      "title": "Zero Fail",
       "category": "Politics",
       "status": "reading"
     },
     {
       "id": 16,
-      "image": "https://images.blinkist.com/images/books/60795aaf6cee070007bf9440/1_1/470.jpg",
-      "author": "Author10",
-      "title": "Book10",
+      "image": "https://images.blinkist.io/images/books/61039e756cee070007903bf5/1_1/470.jpg",
+      "author": "Ben Rhodes",
+      "title": "After the Fall",
       "category": "Politics",
       "status": "reading"
     }
